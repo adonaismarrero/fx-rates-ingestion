@@ -1,0 +1,8 @@
+.venv
+.git
+.github
+data
+tests
+terraform
+**/__pycache__
+*.duckdb
