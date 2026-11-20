@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11%20|%203.12%20|%203.13-3776AB?logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run%20Jobs-4285F4?logo=googlecloud&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: MIT © Adonais Marrero](https://img.shields.io/badge/License-MIT%20%C2%A9%20Adonais%20Marrero-green.svg)](LICENSE)
 
 Ingesta **incremental e idempotente** de una API REST pública: los tipos de cambio de referencia
 del **Banco Central Europeo** (vía [Frankfurter](https://frankfurter.dev), sin clave). Se ejecuta
