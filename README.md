@@ -126,4 +126,4 @@ Dockerfile
 
 ## Licencia
 
-[MIT](LICENSE). Datos: tipos de referencia del Banco Central Europeo, servidos por Frankfurter.
+[MIT](LICENSE) © Adonais Marrero. Datos: tipos de referencia del Banco Central Europeo, servidos por Frankfurter.
